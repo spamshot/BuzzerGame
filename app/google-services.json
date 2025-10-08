@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "30167767035",
+    "project_id": "quizbuzzer-app-d43ca",
+    "storage_bucket": "quizbuzzer-app-d43ca.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:30167767035:android:ec9640480c6470fcbd1d5e",
+        "android_client_info": {
+          "package_name": "com.spam.buzzergame"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkTgfO32dQJXWecADB_Qn6_zG3nUP215Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
